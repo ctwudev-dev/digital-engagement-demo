@@ -4,6 +4,8 @@ This project demonstrates digital engagement analysis and outreach techniques in
 ## Project Overview  
 - `digital_engagement_analysis.py`: A Python script that generates a synthetic dataset of social media interactions (likes, shares, comments) and calculates engagement metrics such as average engagement rate and identifying top‑performing posts. The script demonstrates data literacy and analytic skills required to evaluate digital platforms and improve engagement.  
 - `ocr_example.py`: A simple OCR module using the `pytesseract` library and Pillow. It accepts a path to an image file and prints the extracted text, illustrating how AI/HTR technologies can be applied to convert scanned images or handwritten documents into machine‑readable text.  
+- `iiif_ocr_htr_demo.py`: A script demonstrating how to fetch images from a IIIF manifest, preprocess them, and run OCR/HTR using pytesseract. This illustrates knowledge of IIIF standards and OCR/HTR technologies in archival contexts.
+
 - `simple_ocr_system.py`: A more advanced OCR demonstration that extracts text from an input image, prints the recognized text, and saves an output image with bounding boxes around each detected text segment. This showcases basic OCR and graphical recognition capabilities.  
 
 ## How to Run  
